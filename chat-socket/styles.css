@@ -1,0 +1,20 @@
+.chat-container {
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.message {
+    max-width: 75%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.message-sent {
+    background-color: #dcf8c6;
+    margin-left: auto;
+}
+
+.message-received {
+    background-color: #f1f0f0;
+}
